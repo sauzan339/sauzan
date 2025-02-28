@@ -1,0 +1,136 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    font-family:Arial;
+}
+
+#notice-bar{
+    background: #E6E063;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+header a{
+    color:black;
+}
+
+.hopscotch-avalara-logo{
+    width:140px;
+}
+
+.container{
+    width:80%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.nav{
+    border-bottom: 2px solid grey;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+header .container{
+  display: flex;
+  align-items: center;
+}
+
+nav{
+  margin-left: 60px;
+}
+
+nav a{
+/*   background: #ddd; */
+  padding: 15px;
+  margin-right: 10px;
+  text-decoration: none;
+}
+#intro-wrapper{
+max-width: 700px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1{
+  font-size: 60px;
+}
+
+#intro{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-image: url(https://hopscotchwp.wpengine.com/wp-content/uploads/2024/03/Lightning-Bolt.svg);
+  background-size: 1000px 1000px;
+  background-position-x: right;
+  background-repeat: no-repeat;
+}
+
+#intro form{
+  border: 1px solid black;
+  display: inline-block;
+  padding: 5px;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+#intro input[type=email]
+{
+  border: none;
+}
+
+#intro input[type=submit]{
+  background: black;
+    color: white;
+  border: none;
+  padding: 10px;
+}
+
+#intro input[type=submit]:hover{
+  background: yellow;
+  color: black;
+}
+
+img{
+  width:900px;
+  float: 30px;
+}
+
+#bbb{
+  text-align:center;
+      margin-left:auto;
+      margin-right: auto;
+}
+
+
+
+
+
+
+#ccc{
+  display: flex;
+  
+  padding: 140px ;
+  /* border-radius: 80px; */
+}
+#ddd:hover{
+  background:black;
+  color: yellow;
+  
+}
+#ddd{
+width: 400px;
+height: 300px;
+background-color: darkgrey;
+border-radius: 10px;
+}
+
+
+
+</body>
+</html>
+  
+ 
